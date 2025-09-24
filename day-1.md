@@ -1,8 +1,11 @@
 # Daily Learning
 ## Morning Plaining
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 - [] Checkout the [github blog](https://github.blog/) for topic ideas.
 - [] Learning about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 -  [] Convert my first blog post into an actual webpage
+
 ## Review
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
